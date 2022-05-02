@@ -12,5 +12,10 @@ System.out.println("NativeAppAndriod");
 	public void IOS()
 	{
 		System.out.println("IOS");
+		System.out.println("IOS");
+		}
+	public void IOSs()
+	{
+		System.out.println("IOS123");
 		}
 }
